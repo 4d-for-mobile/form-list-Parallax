@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "4d-for-ios-form-list-Horizontal-Cards",
+    name: "4d-for-ios-form-list-Parallax",
     platforms: [
         .iOS(.v13)
     ],
